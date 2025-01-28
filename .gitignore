@@ -1,0 +1,23 @@
+# Large files
+creditcard.csv
+data/cleaned_data.csv
+
+# Virtual environment
+fraud_env/
+**/fraud_env/**
+*.dylib
+
+# Cursor rules
+.cursorrules
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Dataset files
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.json
