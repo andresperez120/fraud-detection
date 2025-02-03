@@ -21,3 +21,7 @@ data/*.csv
 data/*.xlsx
 data/*.xls
 data/*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
