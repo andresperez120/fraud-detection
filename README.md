@@ -1,20 +1,28 @@
 # Credit Card Fraud Detection Project
 
-## Overview
-
+## Project Overview
 This project implements a machine learning model to detect fraudulent credit card transactions. Using XGBoost classification and advanced data preprocessing techniques, the model achieves high accuracy in identifying suspicious transactions while maintaining a low false alarm rate.
 
 ## Project Structure
 
 fraud-detection/
+
 ├── data/ # Data files (not tracked in git)
+
 ├── notebooks/ # Jupyter notebooks
+
 │ └── fraud_detection.ipynb
+
 ├── scripts/
+
 │ ├── eda_and_preprocessing.py
+
 │ └── model_training.py
+
 ├── outputs/ # Saved models and plots (not tracked in git)
+
 ├── .gitignore
+
 └── README.md
 
 
